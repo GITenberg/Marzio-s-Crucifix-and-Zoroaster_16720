@@ -21,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1316
     wikipedia: http://en.wikipedia.org/wiki/Francis_Marion_Crawford
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16720#Marzio-s-Crucifix-and-Zoroaster
 gutenberg_bookshelf: Historical Fiction
 gutenberg_issued: '2005-09-18'
 gutenberg_type: Text
